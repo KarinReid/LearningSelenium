@@ -10,6 +10,7 @@
     -   Page Object model
     -   Page Factory
     -   Jenkinsfile (for multibranch pipelines)
+    -   YAML file for test data
 
 ## Running the tests
 
