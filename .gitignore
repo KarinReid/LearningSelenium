@@ -1,0 +1,10 @@
+# project files *
+*.idea
+*.iml
+
+# Compiled source #
+*.class
+*.dll
+
+# Logs and databases #
+*.log
