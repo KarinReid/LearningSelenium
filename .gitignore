@@ -6,5 +6,8 @@
 *.class
 *.dll
 
+# Reports #
+/target
+
 # Logs and databases #
 *.log
